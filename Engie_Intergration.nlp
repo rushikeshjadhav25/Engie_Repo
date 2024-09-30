@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Engie_Intergration
+project.version=8.9
+project.original.version=8.9
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2024.1.0
+project.is-open-test-settings-after-upload=false
+project.id=75a9c21c-6a48-4da1-98f6-23f2abee6ce0
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/rushikeshjadhav25/Engie_Repo
